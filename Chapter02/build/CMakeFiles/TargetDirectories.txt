@@ -1,0 +1,6 @@
+/home/abel/Desktop/OpenCV4_cpp_book_AbelTested/Chapter02/build/CMakeFiles/rebuild_cache.dir
+/home/abel/Desktop/OpenCV4_cpp_book_AbelTested/Chapter02/build/CMakeFiles/edit_cache.dir
+/home/abel/Desktop/OpenCV4_cpp_book_AbelTested/Chapter02/build/CMakeFiles/sample3.dir
+/home/abel/Desktop/OpenCV4_cpp_book_AbelTested/Chapter02/build/CMakeFiles/sample2.dir
+/home/abel/Desktop/OpenCV4_cpp_book_AbelTested/Chapter02/build/CMakeFiles/Chapter2.dir
+/home/abel/Desktop/OpenCV4_cpp_book_AbelTested/Chapter02/build/CMakeFiles/sample1.dir

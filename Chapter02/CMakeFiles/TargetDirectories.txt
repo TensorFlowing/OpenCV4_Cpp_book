@@ -1,0 +1,6 @@
+/home/abel/Desktop/OpenCV4_cpp_book/Chapter02/CMakeFiles/rebuild_cache.dir
+/home/abel/Desktop/OpenCV4_cpp_book/Chapter02/CMakeFiles/edit_cache.dir
+/home/abel/Desktop/OpenCV4_cpp_book/Chapter02/CMakeFiles/sample3.dir
+/home/abel/Desktop/OpenCV4_cpp_book/Chapter02/CMakeFiles/sample2.dir
+/home/abel/Desktop/OpenCV4_cpp_book/Chapter02/CMakeFiles/Chapter2.dir
+/home/abel/Desktop/OpenCV4_cpp_book/Chapter02/CMakeFiles/sample1.dir

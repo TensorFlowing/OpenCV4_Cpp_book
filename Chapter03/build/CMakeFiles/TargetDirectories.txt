@@ -1,0 +1,8 @@
+/home/abel/Desktop/OpenCV4_cpp_book_AbelTested/Chapter03_unsuccessful/build/CMakeFiles/rebuild_cache.dir
+/home/abel/Desktop/OpenCV4_cpp_book_AbelTested/Chapter03_unsuccessful/build/CMakeFiles/edit_cache.dir
+/home/abel/Desktop/OpenCV4_cpp_book_AbelTested/Chapter03_unsuccessful/build/CMakeFiles/ch3_sample5.dir
+/home/abel/Desktop/OpenCV4_cpp_book_AbelTested/Chapter03_unsuccessful/build/CMakeFiles/ch3_sample4.dir
+/home/abel/Desktop/OpenCV4_cpp_book_AbelTested/Chapter03_unsuccessful/build/CMakeFiles/ch3_sample2.dir
+/home/abel/Desktop/OpenCV4_cpp_book_AbelTested/Chapter03_unsuccessful/build/CMakeFiles/ch3_sample3.dir
+/home/abel/Desktop/OpenCV4_cpp_book_AbelTested/Chapter03_unsuccessful/build/CMakeFiles/ch3_sample1.dir
+/home/abel/Desktop/OpenCV4_cpp_book_AbelTested/Chapter03_unsuccessful/build/CMakeFiles/Photo_Tool.dir
