@@ -1,0 +1,8 @@
+*/CMakeFiles/
+*/build/*
+*.pgm
+*.pdf
+*.png
+*.pb
+*.pth
+*.onnx
